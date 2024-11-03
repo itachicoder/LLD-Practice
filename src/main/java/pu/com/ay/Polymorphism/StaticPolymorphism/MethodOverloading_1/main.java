@@ -10,7 +10,7 @@ class Sum {
         return a + b + c;
     }
   }
-  
+    
   public class main {
     public static void main(String[] args) {
       Sum sum = new Sum();
