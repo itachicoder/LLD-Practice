@@ -11,6 +11,9 @@ pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cone.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cylinder.class
 pu/com/ay/Inheritance/ElectricCar.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/main.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Manual.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Car.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Motorized.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/Sum.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePrinter.class
@@ -19,8 +22,11 @@ pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Invoice.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Sphere.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Shape.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/VolumeCalculator.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/VehicleDemo.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/main.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Vehicle.class
 pu/com/ay/Abstraction/Circle.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePersistence.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cuboid.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/main.class
+pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Bicycle.class
