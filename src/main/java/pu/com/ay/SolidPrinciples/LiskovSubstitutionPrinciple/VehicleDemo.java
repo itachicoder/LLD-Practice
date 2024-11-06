@@ -197,6 +197,7 @@ class VehicleDemo {
             System.out.println("\nTesting " + vehicle.getBrand() + " " + vehicle.getModel());
             vehicle.move();
             vehicle.stop();
+
         }
     }
 }
