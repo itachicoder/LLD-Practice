@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 // Concrete implementation of Teacher
  class Teacher implements Faculty {
-    private String name;
+    private final String name;
     
     public Teacher(String name) {
         this.name = name;
@@ -32,7 +32,7 @@ import java.util.stream.Collectors;
 
 // Concrete implementation of Assistant
  class Assistant implements Faculty {
-    private String name;
+    private final String name;
     
     public Assistant(String name) {
         this.name = name;
@@ -51,7 +51,7 @@ import java.util.stream.Collectors;
 
 // Concrete implementation of Helper
  class Helper implements Faculty {
-    private String name;
+    private final String name;
     
     public Helper(String name) {
         this.name = name;
@@ -70,7 +70,7 @@ import java.util.stream.Collectors;
 
 // Concrete implementation of Secretary
  class Secretary implements Faculty {
-    private String name;
+    private final String name;
     
     public Secretary(String name) {
         this.name = name;
@@ -89,8 +89,8 @@ import java.util.stream.Collectors;
 
 // High-level module that depends on Faculty abstraction
  class Headmaster {
-    private String name;
-    private List<Faculty> facultyMembers;
+    private final String name;
+    private final List<Faculty> facultyMembers;
     
     public Headmaster(String name) {
         this.name = name;
