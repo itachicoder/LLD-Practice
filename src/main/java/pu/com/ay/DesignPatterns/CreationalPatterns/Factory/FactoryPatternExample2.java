@@ -1,4 +1,4 @@
-package pu.com.ay.DesignPatterns.Factory;
+package pu.com.ay.DesignPatterns.CreationalPatterns.Factory;
 
 // The Product interface
 interface Transport {
@@ -20,7 +20,7 @@ class Ship implements Transport {
     }
 }
 
-// The Creator class
+// The Factory class
 abstract class Logistics {
     public void processDelivery() {
         // ... other logistics processing code

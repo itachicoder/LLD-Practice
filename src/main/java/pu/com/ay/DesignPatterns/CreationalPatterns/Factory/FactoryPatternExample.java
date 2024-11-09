@@ -1,4 +1,4 @@
-package pu.com.ay.DesignPatterns.Factory;
+package pu.com.ay.DesignPatterns.CreationalPatterns.Factory;
 
     interface Button {
         void render();

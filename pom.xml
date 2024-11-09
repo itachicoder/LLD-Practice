@@ -4,9 +4,19 @@
     <groupId>pu.com.ay</groupId>
     <artifactId>java-lld</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>pu.com.ay.JavaLld</exec.mainClass>
     </properties>
+
+    <dependencies>
+        <!-- JSON-java dependency -->
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20230618</version>
+        </dependency>
+    </dependencies>
 </project>
