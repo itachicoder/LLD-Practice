@@ -1,7 +1,11 @@
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/Abstraction/Circle.java
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample.java
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample2.java
-/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/StockMarketAnalysis.java
+/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis.java
+/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo.java
+/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderSystemDemo.java
+/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/Composite/ShapeEditorDemo.java
+/home/aman-yadav/java-lld/src/main/java/pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Main.java
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/Encapsulation/Movie.java
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/Inheritance/main.java
 /home/aman-yadav/java-lld/src/main/java/pu/com/ay/Polymorphism/DynamicPolymorphism/main.java

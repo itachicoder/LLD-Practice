@@ -1,4 +1,4 @@
-package pu.com.ay.DesignPatterns.StructuralPatterns;
+package pu.com.ay.DesignPatterns.StructuralPatterns.Adapter;
 
 import org.json.JSONObject;
 import org.json.XML;
