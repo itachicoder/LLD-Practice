@@ -2,6 +2,7 @@ pu/com/ay/Inheritance/main.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Shape.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/Lion.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/ParticleFactory.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/TwoDimensionalShape.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Ship.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Teacher.class
@@ -19,8 +20,10 @@ pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/VehicleDemo.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Cube.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/main.class
 pu/com/ay/Abstraction/Circle.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Particle.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Bicycle.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Square.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Vector.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderComponent.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Transport.class
 pu/com/ay/Inheritance/Vehicle.class
@@ -59,6 +62,7 @@ pu/com/ay/Encapsulation/Movie.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Product.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/ShapeEditorDemo.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Truck.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Main.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Invoice.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/NotifierDecorator.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Shape.class
@@ -88,6 +92,7 @@ pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Headmaster.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Car.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Helper.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/Sum.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Game.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/VolumeCalculator.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/MPEG4CompressionCodec.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Shape.class
@@ -96,3 +101,4 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Vehicle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/CompoundShape.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePersistence.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/ParticleFlyweight.class
