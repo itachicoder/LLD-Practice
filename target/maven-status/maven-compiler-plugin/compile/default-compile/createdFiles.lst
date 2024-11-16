@@ -5,12 +5,14 @@ pu/com/ay/Polymorphism/DynamicPolymorphism/Lion.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/ParticleFactory.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/TwoDimensionalShape.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Ship.class
+pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/Video.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Teacher.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Manual.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/SlackNotifier.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePrinter.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Sphere.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample2.class
+pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Box.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Logistics.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/CodecFactory.class
@@ -38,12 +40,14 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Factory/WindowsDialog.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ThreeDimensionalShape.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Rectangle.class
+pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeServiceProxy.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoFile.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFactory.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Notifier.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Secretary.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/FormattedCharacter.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Blue.class
+pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/RealYouTubeService.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/main.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Faculty.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Button.class
@@ -101,6 +105,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/TextEditor.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/VolumeCalculator.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/MPEG4CompressionCodec.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Shape.class
+pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeService.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/SchoolSystem.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Vehicle.class
