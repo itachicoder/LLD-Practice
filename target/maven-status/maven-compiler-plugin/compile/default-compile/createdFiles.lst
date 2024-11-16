@@ -3,6 +3,7 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Shape.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/Lion.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/ParticleFactory.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Car$CarBuilder.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/TwoDimensionalShape.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/BasicSingleton.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Ship.class
@@ -47,6 +48,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoFile.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFactory.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/SingletonPatternDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Notifier.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/BuilderPatternDemo.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Secretary.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/FormattedCharacter.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Blue.class
@@ -55,6 +57,7 @@ pu/com/ay/Polymorphism/DynamicPolymorphism/main.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Faculty.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Button.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFlyweight.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Manual.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/EmailNotifier.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Sphere.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/BookInvoiceDemo.class
@@ -84,6 +87,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$StockApp
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/SeaLogistics.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/OggCompressionCodec.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/ThreadSafeSingleton.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Director.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Dialog.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$StockDataDisplay.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoConversionFacade.class
@@ -102,7 +106,9 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Rectangle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$StockDataAdapter.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Headmaster.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/EagerSingleton.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Manual$ManualBuilder.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Car.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Car.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Helper.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/Sum.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Game.class
