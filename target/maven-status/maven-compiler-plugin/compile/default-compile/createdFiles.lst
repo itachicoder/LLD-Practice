@@ -39,12 +39,15 @@ pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ThreeDimensionalShape.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Rectangle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoFile.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFactory.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Notifier.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Secretary.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/FormattedCharacter.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Blue.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/main.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Faculty.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Button.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFlyweight.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/EmailNotifier.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Sphere.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/BookInvoiceDemo.class
@@ -57,6 +60,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Facade/Main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/SMSNotifier.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Motorized.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$AnalyticsLibrary.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/LibraryBooks.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Square.class
 pu/com/ay/Encapsulation/Movie.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Product.class
@@ -93,6 +97,7 @@ pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Car.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Helper.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/Sum.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Game.class
+pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/TextEditor.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/VolumeCalculator.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/MPEG4CompressionCodec.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Shape.class
