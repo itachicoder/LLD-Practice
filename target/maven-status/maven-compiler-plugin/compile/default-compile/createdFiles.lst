@@ -36,11 +36,13 @@ pu/com/ay/Polymorphism/DynamicPolymorphism/Animal.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/LinuxButton.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ISPDemo.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Book.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cylinder.class
 pu/com/ay/Inheritance/ElectricCar.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Circle.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/WindowsDialog.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/PizzaDemo.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ThreeDimensionalShape.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Rectangle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeServiceProxy.class
@@ -58,8 +60,10 @@ pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Faculty.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Button.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFlyweight.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Manual.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/PizzaChef.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/EmailNotifier.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Sphere.class
+pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza$PizzaBuilder.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/BookInvoiceDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Circle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/RectangleShape.class
