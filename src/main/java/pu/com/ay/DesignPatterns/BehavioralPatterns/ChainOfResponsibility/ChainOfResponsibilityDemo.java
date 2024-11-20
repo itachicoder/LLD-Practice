@@ -1,4 +1,4 @@
-package pu.com.ay.DesignPatterns.BehavioralPatterns;
+package pu.com.ay.DesignPatterns.BehavioralPatterns.ChainOfResponsibility;
 
 // Base Handler Interface
 interface Handler {
