@@ -1,5 +1,12 @@
 package pu.com.ay.DesignPatterns.BehavioralPatterns.Iterator;
 
+// Let me explain the Iterator pattern and the example:
+// Key Benefits of Iterator Pattern:
+
+// Separates traversal logic from collection implementation
+// Supports multiple concurrent iterations
+// Easy to add new traversal methods without modifying collections
+
 interface Iterator<T> {
     boolean hasNext();
     T next();

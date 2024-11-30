@@ -12,10 +12,12 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/Video.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Teacher.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Manual.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/SlackNotifier.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Checkbox.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePrinter.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Sphere.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample2.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/TextBox.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Iterator/Main.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Logistics.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Box.class
@@ -39,12 +41,15 @@ pu/com/ay/Polymorphism/DynamicPolymorphism/Animal.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ISPDemo.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Book.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Component.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cylinder.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Circle.class
 pu/com/ay/Inheritance/ElectricCar.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Main.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/WindowsDialog.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/PizzaDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Button.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Iterator/Library.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Iterator/Iterator.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ThreeDimensionalShape.class
@@ -69,6 +74,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/EmailNotifier.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Sphere.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza$PizzaBuilder.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/BookInvoiceDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/DialogMediator.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Circle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/RectangleShape.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cone.class
@@ -101,6 +107,7 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Dialog.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$StockDataDisplay.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/WindowsButton.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoConversionFacade.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/AuthenticationDialog.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cuboid.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/FacebookNotifier.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderSystemDemo.class
