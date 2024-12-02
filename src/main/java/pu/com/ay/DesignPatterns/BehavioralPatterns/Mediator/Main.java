@@ -158,7 +158,7 @@ public class Main {
         
         // Simulate user interaction
         username.setValue("john_doe");
-        password.setValue("secret123");
+        password.setValue("secret123"); 
         rememberMe.setChecked(true);
         loginButton.click();
     }
