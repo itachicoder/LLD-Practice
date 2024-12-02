@@ -16,6 +16,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/SlackNotifier.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Checkbox.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePrinter.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Sphere.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/PubSub.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/FactoryPatternExample2.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/YouTubeDemo.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/TextBox.class
@@ -25,6 +26,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Box.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/LinuxDialog.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/CodecFactory.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Assistant.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/Editor.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Cube.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/VehicleDemo.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/main.class
@@ -45,6 +47,7 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ISPDemo.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Book.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Component.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/LoggingListener.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cylinder.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Circle.class
 pu/com/ay/Inheritance/ElectricCar.class
@@ -86,7 +89,9 @@ pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/Main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/SMSNotifier.class
 pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Motorized.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/EventListener.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$AnalyticsLibrary.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/EmailNotificationListener.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/LibraryBooks.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Square.class
 pu/com/ay/Encapsulation/Movie.class
@@ -96,6 +101,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Composite/ShapeEditorDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/NotifierDecorator.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/Invoice.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/EventManager.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/RoadLogistics.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Shape.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Red.class
