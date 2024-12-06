@@ -40,6 +40,8 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/BillPughSingleton$Singleto
 pu/com/ay/DesignPatterns/BehavioralPatterns/Memento/MainWithMemento.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Transport.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderComponent.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/PublicTransportStrategy.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/WalkingStrategy.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Memento/TextDocument.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/LinuxButton.class
 pu/com/ay/Inheritance/Vehicle.class
@@ -54,6 +56,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Circle.c
 pu/com/ay/Inheritance/ElectricCar.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Main.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/WindowsDialog.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/BicycleStrategy.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_2/Area.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/PizzaDemo.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/Button.class
@@ -83,9 +86,11 @@ pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/Sphere.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Pizza$PizzaBuilder.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/BookInvoiceDemo.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/DialogMediator.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/RouteStrategy.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Circle.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/RectangleShape.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cone.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/DrivingStrategy.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/Codec.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/Main.class
@@ -125,6 +130,7 @@ pu/com/ay/DesignPatterns/BehavioralPatterns/State/State.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/FacebookNotifier.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderSystemDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/AudioMixer.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/Navigator.class
 pu/com/ay/Inheritance/GasolineCar.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Memento/DocumentMemento.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/BitrateReader.class
@@ -145,8 +151,10 @@ pu/com/ay/DesignPatterns/CreationalPatterns/Builder/Car.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Helper.class
 pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/Sum.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/State/MediaPlayer.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/Point.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/Game.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/EnumSingleton.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/NavigationDemo.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/BillPughSingleton.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/TextEditor.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Shape.class
