@@ -33,8 +33,10 @@ pu/com/ay/DesignPatterns/BehavioralPatterns/Iterator/Library.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/ThreeDimensionalShape.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoFile.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/SingletonPatternDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/City.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Secretary.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Blue.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/VisitorDemo.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Faculty.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Factory/Button.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/PizzaChef.class
@@ -88,7 +90,9 @@ pu/com/ay/SolidPrinciples/LiskovSubstitutionPrinciple/Vehicle.class
 pu/com/ay/SolidPrinciples/SingleResponsibilityPrinciple/InvoicePersistence.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Shape.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Memento/DocumentCaretaker.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/Industry.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/Lion.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/JSONExportVisitor.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/BasicSingleton.class
 pu/com/ay/SolidPrinciples/InterfaceSegregationPrinciple/TwoDimensionalShape.class
 pu/com/ay/SolidPrinciples/DependencyInversionPrinciple/Teacher.class
@@ -125,6 +129,7 @@ pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/CharacterFactory.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/State/ReadyState.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Notifier.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Builder/BuilderPatternDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/Node.class
 pu/com/ay/DesignPatterns/StructuralPatterns/FlyWeight/FormattedCharacter.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Proxy/RealYouTubeService.class
 pu/com/ay/Polymorphism/DynamicPolymorphism/main.class
@@ -138,6 +143,7 @@ pu/com/ay/Polymorphism/StaticPolymorphism/MethodOverloading_1/main.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Template/DOCDataMiner.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Observer/EventListener.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$AnalyticsLibrary.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/XMLExportVisitor.class
 pu/com/ay/Encapsulation/Movie.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/Product.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/ShapeEditorDemo.class
@@ -148,12 +154,14 @@ pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Red.clas
 pu/com/ay/DesignPatterns/StructuralPatterns/Decorator/Main.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Adapter/StockMarketAnalysis$StockApp.class
 pu/com/ay/DesignPatterns/CreationalPatterns/Singleton/ThreadSafeSingleton.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/SightSeeing.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/State/StatePatternDemo.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Facade/VideoConversionFacade.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Mediator/AuthenticationDialog.class
 pu/com/ay/SolidPrinciples/OpenClosedPrinciple/Cuboid.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/State/State.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Composite/OrderSystemDemo.class
+pu/com/ay/DesignPatterns/BehavioralPatterns/Visitor/Visitor.class
 pu/com/ay/DesignPatterns/BehavioralPatterns/Strategy/Navigator.class
 pu/com/ay/Inheritance/GasolineCar.class
 pu/com/ay/DesignPatterns/StructuralPatterns/Bridge/ShapeColorBridgeDemo$Color.class
